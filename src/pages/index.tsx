@@ -43,8 +43,8 @@ export default function Home() {
           Hello World with Next.js
         </h1>
         <p className={inter.className}>
-          This is a basic "Hello World" application built using Next.js, a
-          React-based framework for building web applications.
+          This is a basic &quot;Hello World&quot; application built using
+          Next.js, a React-based framework for building web applications.
         </p>
         <div className={styles.center}>
           <Image
