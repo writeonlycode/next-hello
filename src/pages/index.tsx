@@ -39,6 +39,13 @@ export default function Home() {
           </div>
         </div>
 
+        <h1 className={inter.className}>
+          Hello World with Next.js
+        </h1>
+        <p className={inter.className}>
+          This is a basic "Hello World" application built using Next.js, a
+          React-based framework for building web applications.
+        </p>
         <div className={styles.center}>
           <Image
             className={styles.logo}
